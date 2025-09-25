@@ -1,4 +1,4 @@
-# Flight Route Optimizer
+# Flight Route Optimization
 
 This program parses a text file (`.txt`) containing information about airplane flights, such as origin airport and city, destination airport and city, distance, and cost. Based on this data, the program offers eight options, utilizing a variety of data structures and algorithms:
 1. Builds and display the weighted, directed graph of all flights
